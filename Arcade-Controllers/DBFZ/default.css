@@ -6,7 +6,7 @@
 }
 
 .custom.disconnected {
-    background: url(stick-assets/disconnected.svgz) no-repeat;
+    background: url(Arcade-Controllers/DBFZ/figthmoney.jpeg) no-repeat;
 }
 
 .custom.disconnected div {
@@ -65,7 +65,7 @@
 
 .custom .bumper.pressed {
     transform: translateY(3px);
-    background: rgba(0,0,0,0.2);
+    background: rgba(0,255,0,0.2);
 }
 
 .custom .bumper.left {
@@ -81,7 +81,6 @@
 
 .custom .quadrant {
     position: absolute;
-    font-family: "Press Start 2P";
     font-size: 28px;
     font-weight: normal;
     top: 20px;
@@ -217,7 +216,7 @@
 }
 
 .custom .fstick.down.left {
-    background-position-x: -1102px;
+    background-position-x: -1100px;
 }
 
 /*END Fight Stick Controller Styling*/
