@@ -32,7 +32,7 @@
 
 .custom .trigger-button.pressed {
     transform: translateY(3px);
-    background: rgba(0,0,0,0.2);
+    background: rgba(0,255,0,0.2);
 }
 
 .custom .trigger-button.left {
@@ -90,19 +90,19 @@
 }
 
 .custom .p0:after {
-    content: "Player 1";
+    content: "";
 }
 
 .custom .p1:after {
-    content: "VGR";
+    content: "";
 }
 
 .custom .p2:after {
-    content: "Player 3";
+    content: "";
 }
 
 .custom .p3:after {
-    content: "Player 4";
+    content: "";
 }
 
 .custom .arrows {
@@ -209,7 +209,7 @@
 }
 
 .custom .fstick.up.left {
-    background-position-x: -1542px;
+    background-position-x: -1540px;
 }
 
 .custom .fstick.down.right {
