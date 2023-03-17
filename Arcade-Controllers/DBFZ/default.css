@@ -155,7 +155,7 @@
 
 .custom .button.pressed {
     transform: translateY(3px);
-    background: rgba(0,0,0,0.2);
+    background: rgba(0,255,0,0.2);
 }
 
 .custom .a {
@@ -216,7 +216,7 @@
 }
 
 .custom .fstick.down.left {
-    background-position-x: -1100px;
+    background-position-x: -1096px;
 }
 
 /*END Fight Stick Controller Styling*/
