@@ -10,7 +10,7 @@
 }
 
 .custom.disconnected div {
-    display: none;
+    display: block;
 }
 
 .custom .triggers {
@@ -32,10 +32,11 @@
 
 .custom .trigger-button.pressed {
     transform: translateY(3px);
-    background: rgba(0,255,0,0.2);
+    background: rgba(0,255,0,0.5);
 }
 
 .custom .trigger-button.left {
+    display : none;
     position: absolute;
     float: right;
     bottom: 4px;
@@ -65,10 +66,11 @@
 
 .custom .bumper.pressed {
     transform: translateY(3px);
-    background: rgba(0,255,0,0.2);
+    background: rgba(0,255,0,0.5);
 }
 
 .custom .bumper.left {
+    display : none;
     position: absolute;
     float: right;
     bottom: 4px;
@@ -155,7 +157,7 @@
 
 .custom .button.pressed {
     transform: translateY(3px);
-    background: rgba(0,255,0,0.2);
+    background: rgba(0,255,0,0.5);
 }
 
 .custom .a {
