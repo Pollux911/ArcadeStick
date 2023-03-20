@@ -160,22 +160,24 @@
     background: rgba(0,255,0,0.5);
 }
 
-.custom .a {
+.fight-stick .a {
+    top: 66px;
+    left: 33px 
+    
+}
+
+.fight-stick .b {
     bottom: 0px;
     left: 0px;
+     
 }
 
-.custom .b {
+.fight-stick .x {
     bottom: 66px;
-    right: 31px;
+    right: 31px;   
 }
 
-.custom .x {
-    top: 66px;
-    left: 33px
-}
-
-.custom .y {
+.fight-stick .y {
     right: 0px;
     top: 0px;
 }
