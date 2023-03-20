@@ -185,7 +185,7 @@
     width: 221px;
     height: 221px;
     top: 198px;
-    left: 194px;
+    left: 196px;
     background: url(https://raw.githubusercontent.com/Pollux911/ArcadeStick/main/Arcade-Controllers/player1stick.png)
 }
 
@@ -218,7 +218,7 @@
 }
 
 .custom .fstick.down.left {
-    background-position-x: -1096px;
+    background-position-x: -1100px;
 }
 
 /*END Fight Stick Controller Styling*/
